@@ -1,4 +1,4 @@
-# NitroGenerator00
+# NitroGenerator
 Fast Nitro Generator 100% 
 
 ### 🏆 Features List
